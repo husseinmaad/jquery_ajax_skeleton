@@ -22,5 +22,3 @@ class User < ActiveRecord::Base
       password == input_password
    end
 end
-
-class
